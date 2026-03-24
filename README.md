@@ -33,6 +33,8 @@
 
 <br clear="both">
 
-<p align="center">
-  <img src="https://github.com/rachit2115/rachit2115/blob/output/github-contribution-grid-snake-color.svg">
-</p>
+<div align="center">
+
+<img src="https://github.com/rachit2115/rachit2115/blob/output/github-contribution-grid-snake-color.svg" alt="Snake animation" />
+
+</div>
