@@ -5,8 +5,6 @@
   <img src="IMG_20250112_140613080_HDR_AE.jpg" width="200px" style="border-radius:50%;" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit2115" alt="rachit2115" /></a> </p>
-
 - 🌱 I’m currently learning **React, Node JS**
 
 - 💬 Ask me about **HTML, CSS, JS**
