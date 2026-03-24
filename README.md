@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachit Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachit2115&label=Profile%20views&color=0e75b6&style=flat" alt="rachit2115" /> </p>
+<p align="left"> <img src="IMG_20250112_140613080_HDR_AE.jpg" alt="rachit2115" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit2115" alt="rachit2115" /></a> </p>
 
