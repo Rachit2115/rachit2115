@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachit Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 <p align="left">
   <img src="IMG_20250112_140613080_HDR_AE.jpg" width="200px" style="border-radius:50%;" />
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS**
 
-- 📫 How to reach me **rachit2115cool@gmail.com**
+- 📫 How to reach me **rachitbsharma.dev@gmail.com**
 
 - 📫 Portfolio **https://rachitbsharma.vercel.app**
 
